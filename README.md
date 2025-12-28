@@ -228,9 +228,9 @@ spec:
 
 ## 📊 GitHub Stats
 
-![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)
+![Aadil's GitHub stats](https://github-readme-stats-self-rho-59.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadil96&layout=compact)
+![Top Langs](https://github-readme-stats-self-rho-59.vercel.app/api/top-langs/?username=aadil96&layout=compact)
 
 ---
 
