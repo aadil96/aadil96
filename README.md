@@ -229,10 +229,13 @@ spec:
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![Aadil's GitHub stats](https://github-readme-stats-self-rho-59.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)
+  
+  [![Aadil's GitHub stats](https://github-readme-stats-self-rho-59.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)]((https://github.com/anuraghazra/github-readme-stats)
   
   ![Top Langs](https://github-readme-stats-self-rho-59.vercel.app/api/top-langs/?username=aadil96&layout=compact)
+
 </div>
+
 ---
 
 ## 🎓 Certifications & Learning
