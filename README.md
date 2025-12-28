@@ -228,12 +228,9 @@ spec:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  ![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)
+![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadil96&show_icons=true&theme=transparent)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadil96&layout=compact)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadil96&layout=compact)
 
 ---
 
